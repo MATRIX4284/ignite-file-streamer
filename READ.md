@@ -19,7 +19,7 @@ java -jar target/igniteFileStreaming-1.0-SNAPSHOT.jar
 
 This will start the streaming of the given text file into Ignite cache named liblu1.
 
-Now you can use the module igniteQueryWordCount in my other git located in to get the word count from the Ignite cache.
+Now you can use the module igniteQueryWordCount from https://github.com/MATRIX4284/igniteQueryWordCount to get the word count from the Ignite cache.
 
 
 
